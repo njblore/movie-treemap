@@ -1,0 +1,27 @@
+#title {
+  text-anchor: middle;
+  font-size: 2rem;
+}
+
+#description {
+  text-anchor: middle;
+  font-size: 1.2rem;
+}
+
+#canvas {
+  background: #efefef;
+  display: block;
+  margin: auto;
+}
+
+#tooltip {
+  visibility: hidden;
+  position: absolute;
+  background: #efefef;
+  border-radius: 6%;
+  padding: 10px
+}
+
+.label {
+  font-size: 0.5rem;
+}
