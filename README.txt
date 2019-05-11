@@ -1,3 +1,7 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/eyopaoeia/pen/maEvgx.
+## Choropleth Map of Education in The US
+
+This choropleth was built using D3.js, .
+You can view the hosted version on codepen: https://codepen.io/eyopaoeia/full/xmVjpv 
+
 
  
