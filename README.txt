@@ -1,6 +1,6 @@
-## Choropleth Map of Education in The US
+## Tree Map of Highest Grossing Movies US
 
-This choropleth was built using D3.js, .
+This tree map was built using D3.js, .
 You can view the hosted version on codepen: https://codepen.io/eyopaoeia/full/xmVjpv 
 
 
